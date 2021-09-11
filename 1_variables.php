@@ -1,7 +1,7 @@
 <?php
     echo 'Hello From PHP';
 
-    /*Same as above but 'echo' is bit faster then 'print'*/
+    /*Same as above but 'echo' is bit faster than 'print'*/
     print 'Hello From PHP';
 
 
